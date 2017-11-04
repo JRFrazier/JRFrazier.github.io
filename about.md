@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: testing
 title: About
 permalink: /about/
 ---
