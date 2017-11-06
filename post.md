@@ -1,5 +1,5 @@
 ---
 layout: postpage
-title: Posts
+title: Blog Posts
 permalink: /post/
 ---
