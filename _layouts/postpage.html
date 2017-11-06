@@ -34,11 +34,11 @@
         <a href="https://medium.com/@jrfrazier"><i class="top-links fa fa-mediumn fa-2x" aria-hidden="true"></i></a>
         <hr>
         <h1>Latest Posts</h1>
-        <ul class="post-link">
+        <ul class="blog-post-link">
           {% for post in site.posts %}
           <li>
-          {{ post.date | date: '%B %d, %Y' }} <br>
           <a href="{{ post.url }}">{{ post.title }}</a>
+          {{ post.date | date: '%B %d, %Y' }} <br>
           {{ post.excerpt }}
           </li>
           {% endfor %}
