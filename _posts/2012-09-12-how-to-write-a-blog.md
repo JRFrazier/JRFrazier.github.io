@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-09-12
 ---
 
 ### What is Lorem Ipsum?
