@@ -35,6 +35,10 @@
         <a href="https://medium.com/@jrfrazier"><i class="top-links fa fa-mediumn fa-2x" aria-hidden="true"></i></a>
         
         <hr>
+        <section id="main_content">
+          {{ content }}
+        </section>
+        <h2>Latest Posts</h2>
         <ul class="post-link">
           {% for post in site.posts %}
           <li>
@@ -42,10 +46,6 @@
           </li>
           {% endfor %}
         </ul>
-        <section id="main_content">
-          {{ content }}
-        </section>
-
         <footer>
         {% if site.github.is_project_page %}
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
