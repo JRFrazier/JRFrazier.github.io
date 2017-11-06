@@ -3,7 +3,7 @@ layout: main
 ---
 
 
-## Welcome to GitHub Pages
+## Welcome to Web Dev Quest!
 
 You can use the [editor on GitHub](https://github.com/JRFrazier/jrfrazier.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
