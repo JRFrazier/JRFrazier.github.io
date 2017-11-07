@@ -7,7 +7,7 @@ layout: main
 
 Hello and welcome to Web Dev Quest! My name is JR. I am a husband, father and USMC veteran 
 on a quest of obtaining the knowledge and skills required to become a web developer. The purpose 
-of this website is to serve as a guide to all who seek to reaching the same goal.
+of this website is to serve as a guide to all who seek to reach the same goal.
            
 I will do my best to document my journey in as much detail as possible, in hopes to serve as a guide 
 for developers like me who are trying to learn how to code on their own. In addition I will provide links 
