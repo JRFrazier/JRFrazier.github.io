@@ -15,7 +15,7 @@ to any documentation and tutorials that have aided me in my journey.
 
 I will try my best to provide as much free material as possible. However, some of the resources that I've used do require 
 payment. That being said, I will do what I can to find any free options that server as equal 
-alternatives. If you have any questions or suggestions, please feel free to DM me on twitter <a href="https://twitter.com/JR_Noble1">@JR_Noble1</a>. 
+alternatives. If you have any questions or suggestions, please feel free to DM me on twitter <a href="https://twitter.com/jr_frazier1">@jr_frazier1</a>. 
 Thank you for visiting my blog and I hope that you chose to join me on this quest of becoming a <strong>Web Developer!</strong>
 
 
