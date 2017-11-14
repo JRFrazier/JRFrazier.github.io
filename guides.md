@@ -1,5 +1,5 @@
 ---
 layout: postpage
 title: Guides
-permalink: /post/
+permalink: /guides/
 ---
